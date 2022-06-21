@@ -1,87 +1,76 @@
 ---
-title: 'An example conference paper'
-
-# Authors
-# If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
-# and it will be replaced with their full name and linked to their profile.
+abstract: "DNA polymerase stalling activates the ATR checkpoint kinase, which in
+  turn suppresses fork collapse and breakage. Herein, we describe use of ATR
+  inhibition (ATRi) as a means to identify genomic sites of problematic DNA
+  replication in murine and human cells. Over 500 high-resolution ATR-dependent
+  sites were ascertained using two distinct methods: replication protein A
+  (RPA)-chromatin immunoprecipitation (ChIP) and breaks identified by TdT
+  labeling (BrITL). The genomic feature most strongly associated with ATR
+  dependence was repetitive DNA that exhibited high structure-forming potential.
+  Repeats most reliant on ATR for stability included structure-forming
+  microsatellites, inverted retroelement repeats, and quasi-palindromic AT-rich
+  repeats. Notably, these distinct categories of repeats differed in the
+  structures they formed and their ability to stimulate RPA accumulation and
+  breakage, implying that the causes and character of replication fork collapse
+  under ATR inhibition can vary in a DNA-structure-specific manner.
+  Collectively, these studies identify key sources of endogenous replication
+  stress that rely on ATR for stability."
+slides: ""
+url_pdf: ""
+publication_types:
+  - "2"
 authors:
-  - admin
-  - Robert Ford
+  - Nishita Shastri
+  - Yu-Chen Tsai
+  - Suzanne Hile
+  - Deondre Jordan
+  - Barrett Powell
+  - Jessica Chen
+  - Dillon Maloney
+  - Marei Dose
+  - Yancy Lo
+  - Theonie Anastassiadis
+  - Osvaldo Rivera
+  - Taehyong Kim
+  - Sharvin Shah
+  - Piyush Borole
+  - Kanika Asija
+  - Xiang Wang
+  - Kevin D Smith
+  - Darren Finn
+  - Jonathan Schug
+  - Rafael Casellas
+  - Liliya A Yatsunyk
+  - Kristin A Eckert
+  - Eric J Brown
+author_notes: []
+publication: Molecular cell
+summary: >-
+  - >500 ATR-dependent sites were identified in the mouse and human genomes
 
-# Author notes (optional)
-author_notes:
-  - 'Equal contribution'
-  - 'Equal contribution'
+  - ATR-inhibitor-driven fork collapse occurs primarily at structure-forming repeats
 
-date: '2013-07-01T00:00:00Z'
-doi: ''
+  - Repeat structures include non-B form DNA and hairpins (AT-rich and inverted repeats)
 
-# Schedule page publish date (NOT publication's date).
-publishDate: '2017-01-01T00:00:00Z'
-
-# Publication type.
-# Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
-# 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
-# 7 = Thesis; 8 = Patent
-publication_types: ['1']
-
-# Publication name and optional abbreviated publication name.
-publication: In *Wowchemy Conference*
-publication_short: In *ICW*
-
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
-
-# Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
-
-tags: []
-
-# Display this page in the Featured widget?
+  - Discrete repeat types accumulate RPA differentially upon fork collapse
+url_dataset: ""
+url_project: ""
+publication_short: ""
+url_source: ""
+url_video: ""
+title: Genome-wide identification of structure-forming repeats as principal
+  sites of fork collapse upon ATR inhibition
+doi: https://doi.org/10.1016/j.molcel.2018.08.047
 featured: true
-
-# Custom links (uncomment lines below)
-# links:
-# - name: Custom Link
-#   url: http://example.org
-
-url_pdf: ''
-url_code: ''
-url_dataset: ''
-url_poster: ''
-url_project: ''
-url_slides: ''
-url_source: ''
-url_video: ''
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
+tags: []
+projects: []
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
-  focal_point: ''
+  caption: ""
+  focal_point: ""
   preview_only: false
-
-# Associated Projects (optional).
-#   Associate this publication with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `internal-project` references `content/project/internal-project/index.md`.
-#   Otherwise, set `projects: []`.
-projects:
-  - example
-
-# Slides (optional).
-#   Associate this publication with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides: "example"` references `content/slides/example/index.md`.
-#   Otherwise, set `slides: ""`.
-slides: example
+date: 2013-07-01T00:00:00Z
+url_slides: ""
+publishDate: 2017-01-01T00:00:00Z
+url_poster: ""
+url_code: ""
 ---
-
-{{% callout note %}}
-Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-{{% callout note %}}
-Create your slides in Markdown - click the _Slides_ button to check out the example.
-{{% /callout %}}
-
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
