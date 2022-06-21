@@ -12,6 +12,8 @@ social:
   - icon: envelope
     icon_pack: fas
     link: /#contact
+    display:
+      header: true
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/xiangW95
@@ -42,4 +44,4 @@ email: cheer.wangsky@gmail.com
 superuser: true
 highlight_name: true
 ---
-Xiang Wang currently works with Prof. Cheng Chao at Baylor College of Medicine on Cancer related algorithmatic development. Specifically, we are looking at improving current methods of determine clonal evolution in scRNA data. I believe that by combining lineage tracing technology like cell phate and more clonal knowledge, we can better elucidate the cancer metastasis and evolution mechanism.
+Xiang Wang currently works with Prof. Cheng Chao at Baylor College of Medicine on cancer-related algorithmatic development. Specifically, we are looking at improving current methods of determine clonal evolution in scRNA data. I believe that by combining lineage tracing technology like cell phate and more clonal knowledge, we can better elucidate the cancer metastasis and evolution mechanism.
