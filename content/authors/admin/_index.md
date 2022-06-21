@@ -1,6 +1,7 @@
 ---
 title: Xiang Wang
 role: PhD student
+avatar_filename: avatar.jpg
 bio: "My research interests include using single cell technology to better
   understand tumor metastasis mechanism. "
 interests:
