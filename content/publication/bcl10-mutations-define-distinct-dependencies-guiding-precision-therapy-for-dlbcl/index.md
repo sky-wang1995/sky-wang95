@@ -41,7 +41,7 @@ abstract: "ABC-DLBCLs have unfavorable outcomes and chronic activation of CBM
   resistance in ABC-DLBCL and further precision can be achieved by selecting
   therapy based on specific biochemical effects of distinct mutation classes."
 draft: false
-featured: false
+featured: true
 image:
   filename: ""
   focal_point: Smart
