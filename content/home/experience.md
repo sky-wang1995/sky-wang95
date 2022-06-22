@@ -29,8 +29,7 @@ experience:
     date_start: '2019-07-01'
     date_end: '2021-07-01'
     description: |2-
-        Responsibilities include:
-        
+        Responsibilities include:       
         * Analysing bioinformatics data including Chip-seq scRNAseq RNAseq HiC HiChiP ATACseq and CutandRun 
         * Modeling biological phenomenon and Statistical testing through patient and animal data to validate hypothesis 
         * Deploying sequecing data analysis pipeline 
@@ -42,7 +41,8 @@ experience:
     location: Spring House, Pennsylvania 
     date_start: '2018-05-01'
     date_end: '2018-08-31'
-    description: 
+    description: |2-
+         Responsibilities include:
         * Analyzed 1000+ patient data for treatment effect from clinical trial for two diseases  
         * Validated patented signature efficacy in patient clinical outcome 
         * Create a machine learning algorithm in stratify responder vs non-responder group 
