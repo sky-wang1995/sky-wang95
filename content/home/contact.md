@@ -28,7 +28,7 @@ content:
   email: xiang.wang@bcm.edu
   phone: 858 249 8782
   address:
-    street: 1 Baylor Plaza 
+    street: 1 Moursund St
     city: Houston
     region: TX
     postcode: '77030'
