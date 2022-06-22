@@ -30,7 +30,7 @@ feature:
     name: genomics 
   - description: 80% 
     icon: python 
-    icon_pack: fas 
+    icon_pack: fab
     name: Python 
   - description: 60%
     icon: laptop-code
