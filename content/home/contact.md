@@ -40,11 +40,11 @@ content:
     - icon: twitter
       icon_pack: fab
       name: DM Me
-      link: 'https://twitter.com/'
+      link: 'https://twitter.com/xiangW95'
     - icon: video
       icon_pack: fas
       name: Zoom Me
-      link: '[https://zoom.com](https://bcm.zoom.us/j/2598600554)'
+      link: 'https://bcm.zoom.us/j/2598600554'
 
 design:
   columns: '2'
