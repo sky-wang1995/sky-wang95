@@ -25,6 +25,7 @@ experience:
   - title: Bioinformatics Analyst 
     company: Weill Cornell Medicine
     company_url: 'https://weill.cornell.edu/'
+    company_logo: WCM
     location: New York City, NY 
     date_start: '2019-07-01'
     date_end: '2021-07-01'
@@ -38,6 +39,7 @@ experience:
   - title: Scientific Intern 
     company: janssen pharmaceuticals
     company_url: 'https://www.janssen.com/'
+    company_logo: JP 
     location: Spring House, Pennsylvania 
     date_start: '2018-05-01'
     date_end: '2018-08-31'
