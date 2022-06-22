@@ -36,7 +36,7 @@ education:
       year: ""
     - course: MB in Biotechnology
       institution: "University of Pennsylvania "
-      year: 2016
+      year: 2019
     - course: BSc in Bioengineering Bioinformatics
       institution: "UC San Diego "
       year: 2017
