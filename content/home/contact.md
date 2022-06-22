@@ -44,7 +44,7 @@ content:
     - icon: video
       icon_pack: fas
       name: Zoom Me
-      link: 'https://zoom.com'
+      link: '[https://zoom.com](https://bcm.zoom.us/j/2598600554)'
 
 design:
   columns: '2'
