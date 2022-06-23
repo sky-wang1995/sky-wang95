@@ -34,7 +34,7 @@ experience:
         * Analysing bioinformatics data including Chip-seq scRNAseq RNAseq HiC HiChiP ATACseq and CutandRun 
         * Modeling biological phenomenon and Statistical testing through patient and animal data to validate hypothesis 
         * Deploying sequecing data analysis pipeline 
-        * Create a sequecing database includes 2000+ sequecing files cumulated over 10 years period 
+        * Creating a sequecing database includes 2000+ sequecing files cumulated over 10 years period 
 
   - title: Scientific Intern 
     company: janssen pharmaceuticals
@@ -45,9 +45,9 @@ experience:
     date_end: '2018-08-31'
     description: |2-
          Responsibilities include:
-        * Analyzed 1000+ patient data for treatment effect from clinical trial for two diseases  
-        * Validated patented signature efficacy in patient clinical outcome 
-        * Create a machine learning algorithm in stratify responder vs non-responder group 
+        * Analysing 1000+ patient data for treatment effect from clinical trial for two diseases  
+        * Validating patented signature efficacy in patient clinical outcome 
+        * Creating a machine learning algorithm in stratify responder vs non-responder group 
 
 
 design:
